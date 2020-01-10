@@ -29,5 +29,6 @@ curl -v --silent -qgk <REDACTED>/graph?runGraph=‘{}’
 
 ```
 
+![Data Graph](https://github.com/saladql/opendata-graphql/blob/master/1578616093.png)
 
 ### More Docs coming soon!
